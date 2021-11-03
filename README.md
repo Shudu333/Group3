@@ -34,4 +34,14 @@ Thoni -->
 
 <!-- Test Steps -->
 
+1. Registration form Nagative test 
+2. Login Nagative test and Positive test
+3. Scrolling 
+4. Search dress
+5. Scrolling Up and down on the web page
+6. Select dress
+7. Choose colour 
+8. Choose size 
+9. Add to cart
+10. logout
 
