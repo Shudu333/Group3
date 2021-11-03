@@ -1,30 +1,30 @@
 # Group3
+********** Team Members ********
+1. Mashudu
+2. Peter
+3. Lungile
+4. Malose
+5. Lebogang
+6. Thato
+7. Patricia
+8. Thoni
 
-<!-- 
-Mashudu
-Lebogang
-Lungile
-Malose
-Peter
-Thato
-Patricia
-Thoni -->
 
-<!-- ****************** WoolworthsTesting **************-->
+**************************** WoolworthsTesting ********************************
 
-<!-- utomation Topic Covered -->
+****** automation Topic Covered
 1. Selenium java
 2. TestNG frameworks 
 3. Maven 
 4. Page object model
 5. Data driven testing
 
-<!-- Requrements -->
+***** Requrements
 1. Browser "Chrome "
 2. selenium webdriver, Chrome Extention https://www.selenium.dev/downloads/
 3. IDE with Maven and testNG installed
 
-<!-- Steps -->
+****** Steps
 1. clone project on your workspace
 2. download test case data excel sheet ../WoolworthsTesting/docs/Test.xlsx 
 3. open project using you code editor or IDE ##Install maven and testNG
@@ -32,7 +32,7 @@ Thoni -->
 5. replace Path_TestData path with path to your Tests.xlsx you donloaded in step 2
 6. excute or run code
 
-<!-- Test Steps -->
+****** Test Steps
 
 1. Registration form Nagative test 
 2. Login Nagative test and Positive test
@@ -45,3 +45,18 @@ Thoni -->
 9. Add to cart
 10. logout
 
+************************************ Adactin Hotel ***************************************
+
+****** automation Topic Covered
+1. Selenium java
+2. TestNG frameworks 
+3. Maven 
+4. Data driven testing
+
+
+
+************************************* Genesis-20 ******************************************
+
+Manual testing
+
+See Test case and screenshorts
