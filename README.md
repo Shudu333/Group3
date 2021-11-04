@@ -52,6 +52,21 @@
 2. TestNG frameworks 
 3. Maven 
 4. Data driven testing
+5. Screenshots
+
+****** Test Steps
+
+1. Registration form Nagative test 
+2. Login Positive test
+3. Check if the user is able to search hotel without selecting a location 
+4. Check if the user is able to search a hotel using a  previous date
+5. Check if the user is able to search a hotel using correct data
+6. Check if the user is able to book  by not filling anything 
+7. Check if the user is able to book by filling a card number that is less than 16 digits 
+8. Check if the user is able to book with invalid information
+9. Check user should not select anything on the dropdown list
+10. Check user should enter checkin date that is later than checkout date
+11. Check user should enter checkin date that is earlier than checkout date
 
 
 
