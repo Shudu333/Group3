@@ -74,4 +74,18 @@
 
 Manual testing
 
-See Test case and screenshorts
+1. Check the required fields by filling in an existing email address and entering less than 10 character on  contact number
+2. Check if contact number number field accceps numbers only.
+3. Check if email address accepts an email without domain name
+4. Check if password accepts numbers only,less than 6 characters
+5. Check if firstname and last name accepts numbers
+6. Check if zip code accepts string
+7. Check if email is sent when you try to reset password
+8. Check the name field accepts numbers and accepts a date that has passed to request a callback
+9. Check if coupon field accepts a coupon that doesn’t exist
+10. Check if related courses can be clicked
+11. Check if you can add two same courses
+12. Check if you click on the course name on the home page it will take you to another page
+
+
+For Reports see Test case and screenshorts
